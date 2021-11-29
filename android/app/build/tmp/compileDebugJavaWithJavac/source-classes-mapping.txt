@@ -1,0 +1,17 @@
+com/six/BuildConfig.java
+ com.six.BuildConfig
+com/six/generated/BasePackageList.java
+ com.six.generated.BasePackageList
+com/six/MainActivity.java
+ com.six.MainActivity
+ com.six.MainActivity$1
+com/six/MainApplication.java
+ com.six.MainApplication
+ com.six.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/six/ReactNativeFlipper.java
+ com.six.ReactNativeFlipper
+ com.six.ReactNativeFlipper$1
+ com.six.ReactNativeFlipper$2
+ com.six.ReactNativeFlipper$2$1
